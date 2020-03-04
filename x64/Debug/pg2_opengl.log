@@ -1,0 +1,33 @@
+﻿  pch.cpp
+  glad.cpp
+  camera.cpp
+  material.cpp
+  matrix3x3.cpp
+  mymath.cpp
+  objloader.cpp
+  pg2_opengl.cpp
+  structs.cpp
+  surface.cpp
+  texture.cpp
+  triangle.cpp
+  tutorials.cpp
+  utils.cpp
+  vector3.cpp
+  vertex.cpp
+  Generating Code...
+glfw3d.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(context.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(init.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(input.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(monitor.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(vulkan.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(window.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(win32_init.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(win32_joystick.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(win32_monitor.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(win32_time.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(win32_thread.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(win32_window.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(wgl_context.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(egl_context.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3d.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3d.lib(osmesa_context.obj)' or at 'C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\glfw.pdb'; linking object as if no debug info
+  pg2_opengl.vcxproj -> C:\Users\Michal\Downloads\pg2_template_opengl_vs2017\pg2_opengl\x64\Debug\pg2_opengl.exe
